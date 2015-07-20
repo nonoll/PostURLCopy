@@ -1,0 +1,20 @@
+{
+   "manifest_version" : 2,
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "js/jquery-1.8.3.min.js", "js/content_scripts.js" ],
+      "matches": [ "http://www.facebook.com/*", "https://www.facebook.com/*" ]
+   } ],
+  "homepage_url": "http://www.usefl.co.kr",
+  "name": "[ USEFL ] FB PostUrlCopy",
+  "description": "Facebook PostUrlCopy",
+  "version": "1.0.0",
+  "permissions": [ "http://www.facebook.com/*", "https://www.facebook.com/*" ],
+  "icons": {
+    "128": "img/icon.png",
+    "16": "img/icon.png",
+    "48": "img/icon.png"
+  }
+}
