@@ -5,8 +5,11 @@ Facebook 의 POST 에 생성되는 " URL Copy " 버튼을 클릭하여 해당 PO
 
 #Screenshot
 ![ScreenShot](/screenshot/step1.png)
+***
 ![ScreenShot](/screenshot/step2.png)
+***
 ![ScreenShot](/screenshot/step3.png)
+***
 ![ScreenShot](/screenshot/step4.png)
 
 #Setup
