@@ -1,5 +1,6 @@
 # PostUrlCopy
 간단한 크롬 앱 입니다.
+
 Facebook 의 POST 에 생성되는 " URL Copy " 버튼을 클릭하여 해당 POST 의 URL 을 복사합니다. 
 
 #Screenshot
